@@ -2,7 +2,7 @@
 mb_internal_encoding("UTF-8");
 
 $to = 'kiokoleon@gmail.com';
-$subject = 'Message from Cryptex';
+$subject = 'Message from Bileonaire Website';
 
 $name = "";
 $email = "";
